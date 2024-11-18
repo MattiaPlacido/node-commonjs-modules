@@ -1,0 +1,13 @@
+{
+  "name": "people",
+  "version": "1.0.0",
+  "main": "people.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node people.js",
+    "dev": "node --watch people.js"
+  },
+  "author": "Mattia Placido",
+  "license": "ISC",
+  "description": ""
+}
